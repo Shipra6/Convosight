@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1632064357788' stop='1632064412191'>
+    <name>Convosight UI Validation, </name>
+    <title>Convosight UI Validation, </title>
+    <test-cases>
+        <test-case start='1632064357791' status='passed' stop='1632064386192'>
+            <name>Validate search suggestion is not given to user until 3 char are populated.&amp; Validate results are displayed according the search made by user.</name>
+            <title>Validate search suggestion is not given to user until 3 char are populated.&amp; Validate results are displayed according the search made by user.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='603ef3f9-2cd9-4fa1-b47d-23fd1bdc8c7f-attachment.png' type='image/png' size='509518'/>
+            </attachments>
+        </test-case>
+        <test-case start='1632064386193' status='passed' stop='1632064395272'>
+            <name>Validate user is able to apply the large size catalouge filter for T-shirt section.</name>
+            <title>Validate user is able to apply the large size catalouge filter for T-shirt section.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b7acb95f-35a0-40ca-8ddf-a419be0eed7e-attachment.png' type='image/png' size='260695'/>
+            </attachments>
+        </test-case>
+        <test-case start='1632064395272' status='passed' stop='1632064411823'>
+            <name>Validate user is able to upload a file on contact us page.</name>
+            <title>Validate user is able to upload a file on contact us page.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='052b37c7-701b-4ea0-bfc6-4869b08cdfa6-attachment.png' type='image/png' size='93586'/>
+            </attachments>
+        </test-case>
+        <test-case start='1632064411823' status='passed' stop='1632064412187'>
+            <name>Add 5 products in the cart. Validate total cart amount and individual product price both with and without discount.</name>
+            <title>Add 5 products in the cart. Validate total cart amount and individual product price both with and without discount.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bc917617-249a-4e0d-904f-914a1efa036e-attachment.png' type='image/png' size='93586'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,22 @@
+{
+  "name": "protractor_framework",
+  "version": "1.0.0",
+  "description": "UI Automation Test",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "keywords": [
+    "protractor",
+    "jasmine"
+  ],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.4",
+    "webdriver-manager": "^12.1.8"
+  }
+}
